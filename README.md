@@ -83,3 +83,23 @@ streamlit run app.py
 Outputs:
 - Framed preview rendered in UI
 - Optional PNG download
+---
+
+## Tech Stack
+
+- **Language**: Python 3.10+
+- **Frontend**: Streamlit
+- **Image Processing**: PIL (Pillow)
+- **Data Handling**: Pandas
+- **Text Embedding**: CLIP model from Hugging Face Transformers
+- **Similarity Search**: cosine similarity via NumPy
+- **Visualization**: Auto-generated frame overlays using PIL
+---
+
+## Future Improvements
+
+- Replace color boxes with real moulding texture images
+- Let users browse by category (e.g., vintage, modern)
+- Compare multiple frames side-by-side
+- Save favorites and create print-ready mockups
+---
