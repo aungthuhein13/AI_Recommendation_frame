@@ -40,3 +40,10 @@ Use placeholder image to visualize frame inventory using `PIL`.
 
 ```bash
 python crt_images.py
+```
+
+Output:
+- data/frame_inventory_with_images.csv
+- data/images/ (contains generated frame PNGs)
+
+--
