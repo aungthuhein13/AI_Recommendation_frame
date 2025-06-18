@@ -16,6 +16,7 @@ This project is an AI-powered frame recommendation and visualization tool built 
 
 ## Project Structure
 
+```
 ├── app.py # Streamlit app
 ├── recommend_frame.py # Recommend frames using embeddings
 ├── create_frame_preview # Create a simulated uploaded painting with frame
@@ -28,13 +29,14 @@ This project is an AI-powered frame recommendation and visualization tool built 
 │ ├── frame_embeddings_local.csv
 │ └── images/ # Folder of generated frame PNGs
 └── README.md
+```
 
 ---
 
 ## Workflow
 
 ### 1. Generate Frame Images
-Use placeholder image to visualize frame inventory using 'PIL'.
+Use placeholder image to visualize frame inventory using `PIL`.
 
-'''bash
+```bash
 python crt_images.py
