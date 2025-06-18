@@ -43,7 +43,43 @@ python crt_images.py
 ```
 
 Output:
-- data/frame_inventory_with_images.csv
-- data/images/ (contains generated frame PNGs)
+- `data/frame_inventory_with_images.csv`
+- `data/images/` (contains generated frame PNGs)
 
---
+---
+
+### 2. Add Descriptive Text to Metadata
+```bash
+python convert_metadata_description.py
+```
+
+Output:
+- `data/frame_inventory_with_images.csv`
+
+---
+
+### 3. Generate Text Embeddings
+Use `CLIP` model to convert descriptions into 512-dim vectors for similarity matching.
+
+```bash
+python embed_frame_description.py
+```
+
+Output:
+- `data/frame_embeddings_local.csv` (adds `embeddings_0` to `embeddings_511` columns)
+
+---
+
+### 4. Launch the Streamlit App
+
+```bash
+streamlit run app.py
+```
+- Upload an artwork image (JPG or PNG)
+- Input its dimensions in inches
+- App recommends best-matching frame
+- Displays framed preview with download option
+
+Outputs:
+- Framed preview rendered in UI
+- Optional PNG download
