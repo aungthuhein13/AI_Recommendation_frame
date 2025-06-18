@@ -1,0 +1,201 @@
+Frame ID,Material,Color,Width (inches),Style,Finish,Category,Availability,Image Filename
+F0001,Wood,Champagne,2.0,Minimalist,Matte,Photography,Discontinued,F0001.png
+F0002,Composite,Gold,2.5,Vintage,Matte,Gallery,Discontinued,F0002.png
+F0003,Metal,Espresso,1.25,Minimalist,Matte,Photography,Discontinued,F0003.png
+F0004,Composite,Champagne,2.25,Rustic,Brushed,Home Decor,In Stock,F0004.png
+F0005,Composite,Gold,2.25,Modern,Matte,Gallery,In Stock,F0005.png
+F0006,Metal,Gold,0.75,Minimalist,Satin,Museum,Discontinued,F0006.png
+F0007,Metal,Walnut,1.0,Rustic,Brushed,Museum,Low Stock,F0007.png
+F0008,Composite,Silver,2.5,Classic,Glossy,Home Decor,Discontinued,F0008.png
+F0009,Composite,Natural,1.5,Baroque,Matte,Photography,Low Stock,F0009.png
+F0010,Metal,Espresso,0.5,Baroque,Glossy,Photography,Discontinued,F0010.png
+F0011,Metal,Silver,1.0,Vintage,Glossy,Poster,Discontinued,F0011.png
+F0012,Metal,White,3.0,Modern,Matte,Poster,In Stock,F0012.png
+F0013,Metal,White,2.5,Modern,Brushed,Poster,Low Stock,F0013.png
+F0014,Composite,Espresso,0.75,Rustic,Satin,Home Decor,Low Stock,F0014.png
+F0015,Composite,Walnut,2.0,Vintage,Glossy,Museum,Discontinued,F0015.png
+F0016,Composite,Black,2.25,Modern,Satin,Museum,In Stock,F0016.png
+F0017,Wood,Silver,1.25,Rustic,Satin,Gallery,In Stock,F0017.png
+F0018,Composite,White,0.5,Minimalist,Brushed,Home Decor,In Stock,F0018.png
+F0019,Composite,Silver,1.0,Modern,Brushed,Museum,Low Stock,F0019.png
+F0020,Composite,Gold,1.5,Rustic,Satin,Gallery,In Stock,F0020.png
+F0021,Composite,Champagne,2.0,Classic,Satin,Museum,Low Stock,F0021.png
+F0022,Wood,Charcoal,1.0,Modern,Matte,Gallery,Discontinued,F0022.png
+F0023,Metal,Charcoal,0.75,Baroque,Matte,Poster,Low Stock,F0023.png
+F0024,Metal,Natural,2.25,Baroque,Glossy,Museum,In Stock,F0024.png
+F0025,Composite,Natural,1.5,Minimalist,Glossy,Poster,In Stock,F0025.png
+F0026,Composite,Black,2.25,Modern,Glossy,Poster,Discontinued,F0026.png
+F0027,Metal,Champagne,0.5,Minimalist,Brushed,Home Decor,In Stock,F0027.png
+F0028,Metal,Natural,1.5,Minimalist,Brushed,Photography,Low Stock,F0028.png
+F0029,Composite,Black,2.25,Baroque,Matte,Photography,Discontinued,F0029.png
+F0030,Wood,Espresso,2.25,Minimalist,Satin,Gallery,Discontinued,F0030.png
+F0031,Metal,Espresso,1.25,Minimalist,Satin,Photography,Discontinued,F0031.png
+F0032,Composite,Gold,2.5,Modern,Satin,Home Decor,In Stock,F0032.png
+F0033,Metal,Black,3.0,Baroque,Matte,Photography,Low Stock,F0033.png
+F0034,Wood,Oak,2.5,Modern,Brushed,Gallery,Low Stock,F0034.png
+F0035,Metal,Charcoal,2.25,Classic,Glossy,Poster,In Stock,F0035.png
+F0036,Metal,Charcoal,3.0,Baroque,Matte,Museum,Discontinued,F0036.png
+F0037,Wood,Walnut,2.25,Vintage,Satin,Photography,Low Stock,F0037.png
+F0038,Composite,Gold,3.0,Modern,Matte,Poster,Low Stock,F0038.png
+F0039,Composite,Walnut,2.0,Classic,Brushed,Museum,Discontinued,F0039.png
+F0040,Wood,Espresso,0.75,Baroque,Glossy,Home Decor,Discontinued,F0040.png
+F0041,Composite,Walnut,1.5,Baroque,Satin,Home Decor,In Stock,F0041.png
+F0042,Metal,Charcoal,1.25,Minimalist,Brushed,Gallery,Discontinued,F0042.png
+F0043,Composite,Espresso,2.25,Classic,Satin,Poster,In Stock,F0043.png
+F0044,Composite,White,2.0,Classic,Matte,Photography,In Stock,F0044.png
+F0045,Wood,Charcoal,0.5,Minimalist,Brushed,Museum,In Stock,F0045.png
+F0046,Metal,Walnut,2.5,Rustic,Matte,Poster,Discontinued,F0046.png
+F0047,Metal,Walnut,0.5,Classic,Glossy,Home Decor,Low Stock,F0047.png
+F0048,Composite,Silver,1.0,Baroque,Glossy,Home Decor,Low Stock,F0048.png
+F0049,Wood,Natural,2.0,Baroque,Satin,Gallery,In Stock,F0049.png
+F0050,Composite,Charcoal,3.0,Classic,Satin,Photography,Low Stock,F0050.png
+F0051,Wood,Oak,2.25,Classic,Matte,Gallery,Low Stock,F0051.png
+F0052,Wood,Silver,3.0,Modern,Brushed,Poster,Low Stock,F0052.png
+F0053,Metal,Charcoal,1.25,Vintage,Matte,Photography,Low Stock,F0053.png
+F0054,Composite,Oak,3.0,Modern,Matte,Gallery,Low Stock,F0054.png
+F0055,Composite,Charcoal,1.0,Baroque,Satin,Museum,In Stock,F0055.png
+F0056,Metal,Black,2.25,Vintage,Matte,Photography,In Stock,F0056.png
+F0057,Wood,Espresso,0.5,Modern,Matte,Poster,In Stock,F0057.png
+F0058,Composite,Gold,1.5,Minimalist,Glossy,Museum,In Stock,F0058.png
+F0059,Composite,Espresso,1.0,Minimalist,Satin,Gallery,Discontinued,F0059.png
+F0060,Metal,Natural,1.5,Vintage,Brushed,Gallery,Low Stock,F0060.png
+F0061,Metal,Espresso,2.25,Classic,Satin,Photography,Low Stock,F0061.png
+F0062,Composite,Champagne,1.5,Vintage,Glossy,Museum,In Stock,F0062.png
+F0063,Wood,Silver,2.25,Rustic,Matte,Museum,Discontinued,F0063.png
+F0064,Metal,Walnut,1.5,Minimalist,Matte,Home Decor,Discontinued,F0064.png
+F0065,Wood,Walnut,2.25,Minimalist,Satin,Poster,In Stock,F0065.png
+F0066,Metal,Black,0.5,Rustic,Satin,Gallery,Discontinued,F0066.png
+F0067,Wood,Champagne,2.25,Vintage,Satin,Photography,Discontinued,F0067.png
+F0068,Composite,Oak,0.75,Rustic,Satin,Gallery,In Stock,F0068.png
+F0069,Composite,Champagne,1.5,Rustic,Matte,Museum,Low Stock,F0069.png
+F0070,Wood,Gold,1.25,Minimalist,Satin,Photography,In Stock,F0070.png
+F0071,Wood,Natural,2.5,Minimalist,Brushed,Poster,In Stock,F0071.png
+F0072,Composite,Oak,0.75,Classic,Matte,Photography,Low Stock,F0072.png
+F0073,Composite,Walnut,0.5,Modern,Brushed,Home Decor,In Stock,F0073.png
+F0074,Metal,Gold,0.75,Minimalist,Glossy,Museum,Low Stock,F0074.png
+F0075,Wood,White,1.5,Minimalist,Glossy,Museum,Discontinued,F0075.png
+F0076,Wood,Natural,1.25,Modern,Glossy,Museum,In Stock,F0076.png
+F0077,Metal,Black,1.25,Minimalist,Satin,Gallery,Discontinued,F0077.png
+F0078,Metal,Gold,2.0,Modern,Glossy,Photography,Discontinued,F0078.png
+F0079,Metal,Espresso,3.0,Vintage,Glossy,Photography,Discontinued,F0079.png
+F0080,Composite,Gold,0.75,Baroque,Matte,Poster,In Stock,F0080.png
+F0081,Wood,Espresso,2.0,Baroque,Brushed,Photography,Discontinued,F0081.png
+F0082,Wood,Walnut,1.5,Classic,Matte,Museum,In Stock,F0082.png
+F0083,Wood,Gold,2.25,Baroque,Matte,Photography,Discontinued,F0083.png
+F0084,Metal,Black,1.25,Vintage,Glossy,Gallery,Discontinued,F0084.png
+F0085,Composite,Silver,2.25,Rustic,Glossy,Museum,Low Stock,F0085.png
+F0086,Metal,Oak,2.0,Vintage,Glossy,Home Decor,In Stock,F0086.png
+F0087,Composite,Gold,2.0,Minimalist,Satin,Photography,Low Stock,F0087.png
+F0088,Composite,White,3.0,Classic,Matte,Gallery,In Stock,F0088.png
+F0089,Composite,Natural,3.0,Rustic,Brushed,Gallery,Discontinued,F0089.png
+F0090,Composite,Silver,2.5,Modern,Matte,Home Decor,Discontinued,F0090.png
+F0091,Wood,White,2.0,Rustic,Matte,Gallery,Low Stock,F0091.png
+F0092,Composite,Oak,3.0,Minimalist,Matte,Home Decor,Discontinued,F0092.png
+F0093,Wood,White,0.5,Classic,Glossy,Museum,In Stock,F0093.png
+F0094,Wood,Natural,2.25,Vintage,Brushed,Museum,Discontinued,F0094.png
+F0095,Wood,Gold,0.5,Minimalist,Satin,Gallery,Discontinued,F0095.png
+F0096,Wood,Oak,1.5,Vintage,Matte,Photography,Low Stock,F0096.png
+F0097,Wood,Oak,0.75,Classic,Brushed,Poster,Discontinued,F0097.png
+F0098,Metal,Silver,1.5,Vintage,Brushed,Museum,In Stock,F0098.png
+F0099,Wood,Natural,1.5,Modern,Satin,Museum,Low Stock,F0099.png
+F0100,Composite,Natural,2.25,Modern,Brushed,Home Decor,Discontinued,F0100.png
+F0101,Wood,Oak,1.0,Vintage,Satin,Poster,Discontinued,F0101.png
+F0102,Metal,Black,2.5,Classic,Satin,Photography,Low Stock,F0102.png
+F0103,Wood,Espresso,2.25,Vintage,Glossy,Museum,Discontinued,F0103.png
+F0104,Wood,Champagne,2.0,Baroque,Brushed,Museum,Discontinued,F0104.png
+F0105,Metal,Gold,1.0,Rustic,Satin,Poster,In Stock,F0105.png
+F0106,Metal,Black,1.5,Rustic,Glossy,Museum,In Stock,F0106.png
+F0107,Composite,Silver,2.25,Classic,Glossy,Gallery,Low Stock,F0107.png
+F0108,Metal,Champagne,1.25,Modern,Matte,Gallery,Discontinued,F0108.png
+F0109,Wood,White,1.5,Modern,Satin,Home Decor,In Stock,F0109.png
+F0110,Wood,White,3.0,Minimalist,Glossy,Photography,Low Stock,F0110.png
+F0111,Wood,Gold,1.25,Baroque,Matte,Museum,In Stock,F0111.png
+F0112,Metal,Natural,1.25,Rustic,Brushed,Museum,Low Stock,F0112.png
+F0113,Composite,Walnut,0.75,Modern,Satin,Gallery,Discontinued,F0113.png
+F0114,Wood,Oak,0.75,Rustic,Glossy,Photography,Low Stock,F0114.png
+F0115,Wood,Espresso,2.25,Classic,Satin,Poster,In Stock,F0115.png
+F0116,Metal,Oak,1.0,Minimalist,Brushed,Poster,Discontinued,F0116.png
+F0117,Composite,Black,2.25,Baroque,Satin,Poster,In Stock,F0117.png
+F0118,Metal,Natural,2.5,Modern,Brushed,Museum,Discontinued,F0118.png
+F0119,Metal,Walnut,2.25,Modern,Glossy,Museum,Discontinued,F0119.png
+F0120,Wood,Walnut,0.75,Minimalist,Matte,Photography,Discontinued,F0120.png
+F0121,Composite,Oak,1.0,Vintage,Satin,Gallery,In Stock,F0121.png
+F0122,Metal,White,2.25,Vintage,Matte,Home Decor,Low Stock,F0122.png
+F0123,Metal,Gold,3.0,Vintage,Satin,Home Decor,In Stock,F0123.png
+F0124,Metal,Silver,2.25,Classic,Brushed,Poster,Discontinued,F0124.png
+F0125,Wood,Gold,2.0,Rustic,Glossy,Museum,Discontinued,F0125.png
+F0126,Composite,Walnut,3.0,Baroque,Satin,Gallery,Discontinued,F0126.png
+F0127,Composite,Champagne,3.0,Classic,Matte,Poster,Discontinued,F0127.png
+F0128,Wood,Natural,1.5,Rustic,Brushed,Museum,In Stock,F0128.png
+F0129,Metal,Gold,1.5,Rustic,Matte,Gallery,Discontinued,F0129.png
+F0130,Composite,Espresso,1.0,Modern,Brushed,Museum,In Stock,F0130.png
+F0131,Composite,Silver,1.25,Classic,Brushed,Museum,Discontinued,F0131.png
+F0132,Wood,Charcoal,1.0,Baroque,Satin,Museum,In Stock,F0132.png
+F0133,Metal,White,2.25,Minimalist,Matte,Poster,In Stock,F0133.png
+F0134,Metal,White,0.5,Vintage,Glossy,Home Decor,Discontinued,F0134.png
+F0135,Composite,Walnut,2.0,Classic,Glossy,Gallery,Discontinued,F0135.png
+F0136,Wood,Silver,0.5,Modern,Satin,Gallery,In Stock,F0136.png
+F0137,Wood,White,1.25,Baroque,Matte,Home Decor,Discontinued,F0137.png
+F0138,Composite,Oak,0.5,Classic,Satin,Home Decor,In Stock,F0138.png
+F0139,Wood,Charcoal,3.0,Baroque,Glossy,Museum,Discontinued,F0139.png
+F0140,Wood,Black,0.75,Minimalist,Satin,Poster,Low Stock,F0140.png
+F0141,Wood,White,1.0,Modern,Matte,Home Decor,Low Stock,F0141.png
+F0142,Wood,White,1.5,Classic,Satin,Home Decor,Discontinued,F0142.png
+F0143,Metal,Natural,2.25,Rustic,Glossy,Museum,Low Stock,F0143.png
+F0144,Wood,Espresso,2.25,Classic,Brushed,Home Decor,Low Stock,F0144.png
+F0145,Metal,Espresso,0.5,Rustic,Matte,Museum,Discontinued,F0145.png
+F0146,Composite,Black,3.0,Modern,Satin,Poster,In Stock,F0146.png
+F0147,Metal,Champagne,3.0,Minimalist,Brushed,Photography,In Stock,F0147.png
+F0148,Wood,White,1.25,Vintage,Satin,Home Decor,In Stock,F0148.png
+F0149,Wood,Silver,1.25,Minimalist,Satin,Museum,Low Stock,F0149.png
+F0150,Wood,Black,1.25,Baroque,Glossy,Gallery,In Stock,F0150.png
+F0151,Composite,Oak,1.25,Classic,Brushed,Photography,Low Stock,F0151.png
+F0152,Composite,Gold,1.25,Vintage,Brushed,Museum,Discontinued,F0152.png
+F0153,Composite,Walnut,1.0,Vintage,Glossy,Gallery,In Stock,F0153.png
+F0154,Composite,Silver,1.25,Rustic,Glossy,Gallery,In Stock,F0154.png
+F0155,Wood,Gold,1.5,Classic,Glossy,Photography,In Stock,F0155.png
+F0156,Composite,Gold,2.25,Modern,Brushed,Museum,Discontinued,F0156.png
+F0157,Metal,Charcoal,0.5,Modern,Satin,Museum,Discontinued,F0157.png
+F0158,Metal,Oak,1.0,Classic,Brushed,Gallery,Low Stock,F0158.png
+F0159,Composite,Champagne,0.75,Classic,Glossy,Photography,Low Stock,F0159.png
+F0160,Wood,Black,2.25,Baroque,Glossy,Home Decor,In Stock,F0160.png
+F0161,Metal,Silver,3.0,Baroque,Satin,Poster,In Stock,F0161.png
+F0162,Wood,Espresso,1.5,Modern,Glossy,Poster,In Stock,F0162.png
+F0163,Wood,Silver,2.0,Vintage,Glossy,Gallery,Low Stock,F0163.png
+F0164,Composite,Silver,1.5,Baroque,Satin,Photography,Discontinued,F0164.png
+F0165,Metal,Champagne,2.25,Modern,Brushed,Gallery,Low Stock,F0165.png
+F0166,Metal,Oak,0.5,Vintage,Glossy,Home Decor,Discontinued,F0166.png
+F0167,Wood,Natural,2.0,Rustic,Matte,Museum,Discontinued,F0167.png
+F0168,Wood,Oak,2.0,Minimalist,Glossy,Home Decor,Low Stock,F0168.png
+F0169,Wood,Gold,2.5,Baroque,Satin,Photography,In Stock,F0169.png
+F0170,Composite,Silver,3.0,Modern,Matte,Gallery,In Stock,F0170.png
+F0171,Wood,Espresso,2.25,Baroque,Matte,Photography,Discontinued,F0171.png
+F0172,Wood,Charcoal,1.5,Baroque,Glossy,Photography,In Stock,F0172.png
+F0173,Composite,White,1.5,Classic,Matte,Museum,Discontinued,F0173.png
+F0174,Composite,Walnut,2.0,Minimalist,Brushed,Photography,Low Stock,F0174.png
+F0175,Metal,Silver,1.0,Modern,Satin,Gallery,In Stock,F0175.png
+F0176,Composite,Black,2.5,Baroque,Brushed,Gallery,Low Stock,F0176.png
+F0177,Wood,Oak,2.5,Baroque,Glossy,Home Decor,Discontinued,F0177.png
+F0178,Metal,Charcoal,0.5,Minimalist,Glossy,Poster,Low Stock,F0178.png
+F0179,Composite,Natural,3.0,Modern,Matte,Poster,Discontinued,F0179.png
+F0180,Composite,Espresso,1.5,Rustic,Satin,Gallery,Discontinued,F0180.png
+F0181,Metal,Charcoal,0.75,Minimalist,Brushed,Poster,In Stock,F0181.png
+F0182,Composite,Champagne,2.0,Baroque,Satin,Museum,Low Stock,F0182.png
+F0183,Wood,Natural,2.0,Minimalist,Satin,Home Decor,Discontinued,F0183.png
+F0184,Metal,Gold,1.0,Classic,Brushed,Home Decor,In Stock,F0184.png
+F0185,Wood,Oak,2.0,Classic,Glossy,Home Decor,In Stock,F0185.png
+F0186,Metal,White,1.25,Modern,Brushed,Home Decor,Low Stock,F0186.png
+F0187,Composite,Espresso,1.5,Modern,Satin,Poster,Discontinued,F0187.png
+F0188,Wood,Oak,1.0,Rustic,Matte,Poster,In Stock,F0188.png
+F0189,Wood,Walnut,2.25,Vintage,Satin,Home Decor,In Stock,F0189.png
+F0190,Metal,Black,1.25,Minimalist,Glossy,Gallery,Low Stock,F0190.png
+F0191,Composite,Oak,1.5,Modern,Matte,Poster,In Stock,F0191.png
+F0192,Metal,Champagne,3.0,Modern,Satin,Gallery,Discontinued,F0192.png
+F0193,Composite,Oak,2.5,Rustic,Matte,Home Decor,In Stock,F0193.png
+F0194,Wood,Gold,1.0,Minimalist,Matte,Home Decor,Low Stock,F0194.png
+F0195,Composite,Espresso,1.5,Vintage,Brushed,Museum,Low Stock,F0195.png
+F0196,Composite,Black,0.75,Classic,Glossy,Gallery,In Stock,F0196.png
+F0197,Wood,Champagne,2.5,Modern,Satin,Gallery,In Stock,F0197.png
+F0198,Metal,Walnut,1.25,Modern,Matte,Museum,Discontinued,F0198.png
+F0199,Metal,Silver,0.75,Baroque,Matte,Museum,Low Stock,F0199.png
+F0200,Composite,Black,2.25,Minimalist,Matte,Photography,Discontinued,F0200.png
