@@ -28,3 +28,13 @@ This project is an AI-powered frame recommendation and visualization tool built 
 │ ├── frame_embeddings_local.csv
 │ └── images/ # Folder of generated frame PNGs
 └── README.md
+
+---
+
+## Workflow
+
+### 1. Generate Frame Images
+Use placeholder image to visualize frame inventory using 'PIL'.
+
+'''bash
+python crt_images.py
